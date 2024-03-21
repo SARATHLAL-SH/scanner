@@ -17,7 +17,7 @@ export default function Scanner() {
         alignItems: "center",
       }}
     >
-      <h1>QR Code Generator</h1>
+      <h1>QR Code Generator for Reshmaji</h1>
       <input
         type="text"
         value={text}
